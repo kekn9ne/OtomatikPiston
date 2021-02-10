@@ -1,6 +1,6 @@
 # OtomatikPiston
 
-OtomatikPiston Minecraft için kızıl taş olmadan pistonların büyüyen bitkileri kırmasını sağlayan bir eklentidir. Eklenti herhangi bir kızıl taş sinyali almayacağı için olduğu gibi duracak, bu sayede sunucularda lag yapmayacaktır. 1.16.5 sürümünde denenmiştir.
+OtomatikPiston Minecraft için kızıl taş olmadan pistonların büyüyen bitkileri kırmasını sağlayan bir eklentidir. Piston herhangi bir kızıl taş sinyali almayacağı için olduğu gibi duracak, bu sayede sunucularda lag yapmayacaktır. 1.16.5 sürümünde denenmiştir.
 
 ### Desteklenen Bitki Türleri
  - Karpuz
