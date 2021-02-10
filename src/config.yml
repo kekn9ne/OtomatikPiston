@@ -1,2 +1,6 @@
-# True = plugin etkin, False = plugin devre dışı
 enabled: true
+
+disabled-worlds:
+  - world
+  - world2
+  - world3

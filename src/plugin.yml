@@ -3,3 +3,9 @@ version: 1.0
 author: Kekn9ne
 main: com.kekn9ne.otomatikpiston.OtomatikPiston
 api-version: 1.16
+
+commands:
+  otomatikpiston:
+    description: Devre dışı bırakma komutu.
+    usage: "Kullanım: /otomatikpiston kapat"
+    permission: otomatikpiston.kapat
